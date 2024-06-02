@@ -1,6 +1,14 @@
 # Tic-Tac-Toe with Minimax AI
 
-This project implements a Tic-Tac-Toe game with a graphical user interface using Python's Pygame library. The game includes an AI opponent that uses the Minimax algorithm to play optimally.
+This project implements a Tic-Tac-Toe game with a graphical user interface using Python's Pygame library. The game includes an AI opponent that uses the Minimax algorithm to play optimally. The AI is designed to challenge players by making the best possible moves, providing a competitive and engaging experience.
+
+## Description
+
+Tic-Tac-Toe with Minimax AI is a sophisticated and interactive game application built to demonstrate the implementation of game theory and artificial intelligence using Python. The project features a classic Tic-Tac-Toe game where users can play against an AI opponent. The AI is powered by the Minimax algorithm, a decision rule used for minimizing the possible loss in a worst-case scenario. This ensures that the AI plays optimally, making it a formidable opponent.
+
+The application is built using Pygame, a popular library for creating games in Python. The graphical interface is designed to be intuitive and user-friendly, allowing players to easily interact with the game. Players can select their preferred symbol (X or O) and make moves by clicking on the game board. The game provides immediate feedback by updating the board and indicating the current player's turn. It also detects the end of the game, displaying the result whether it's a win, loss, or tie, and offers an option to replay.
+
+This project serves as a great example for those looking to learn about game development, AI algorithms, and the practical use of Python and Pygame. It combines theoretical concepts with practical implementation, making it a valuable resource for both beginners and advanced learners.
 
 ## Features
 - **Player Selection**: Choose to play as X or O.
@@ -74,7 +82,6 @@ This project implements a Tic-Tac-Toe game with a graphical user interface using
 
 ![Screen Recording - Jun 1, 2024](https://github.com/Yehya0/AI-Powered-Tic-Tac-Toe/assets/89547515/6b4dcb3f-d4f3-4d1b-b049-01aaa7912c0d)
 
-
 ## Contributing
 
 Contributions are welcome! Please follow these steps to contribute:
@@ -88,4 +95,3 @@ Contributions are welcome! Please follow these steps to contribute:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
