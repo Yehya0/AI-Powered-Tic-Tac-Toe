@@ -70,6 +70,7 @@ This project implements a Tic-Tac-Toe game with a graphical user interface using
 - **AI Move**: Calls the Minimax function to determine and execute the AI's move.
 - **End Game Handling**: Displays the result and provides an option to replay.
 
+### Gameplay
 
 ![Screen Recording - Jun 1, 2024](https://github.com/Yehya0/AI-Powered-Tic-Tac-Toe/assets/89547515/6b4dcb3f-d4f3-4d1b-b049-01aaa7912c0d)
 
