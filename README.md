@@ -18,8 +18,8 @@ This project implements a Tic-Tac-Toe game with a graphical user interface using
 ### Steps
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/YOUR_USERNAME/tictactoe.git
-    cd tictactoe
+    git clone https://github.com/Yehya0/AI-Powered-Tic-Tac-Toe.git
+    cd AI-Powered-Tic-Tac-Toe
     ```
 
 2. **Install the required dependencies**:
@@ -70,10 +70,9 @@ This project implements a Tic-Tac-Toe game with a graphical user interface using
 - **AI Move**: Calls the Minimax function to determine and execute the AI's move.
 - **End Game Handling**: Displays the result and provides an option to replay.
 
-## Screenshots
 
-![Tic-Tac-Toe Start](screenshots/start.png)
-![Tic-Tac-Toe Game](screenshots/game.png)
+![Screen Recording - Jun 1, 2024](https://github.com/Yehya0/AI-Powered-Tic-Tac-Toe/assets/89547515/6b4dcb3f-d4f3-4d1b-b049-01aaa7912c0d)
+
 
 ## Contributing
 
@@ -88,9 +87,4 @@ Contributions are welcome! Please follow these steps to contribute:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Thanks to the Pygame and Python communities for their support and resources.
-- Inspired by Harvard's CS50 AI course.
 
